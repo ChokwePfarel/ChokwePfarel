@@ -101,7 +101,7 @@ Currently completing the remaining Mathematics and Physics module.
 
 I'm interested in connecting with software developers, recruiters, engineering teams, and people building technology that solves real-world problems.
 
-- **GitHub:** https://github.com/ChokwePfarel
+- **LinkedIn:** https://www.linkedin.com/in/pfarelo-chokwe-17134b3a8/?isSelfProfile=true
 - **Email:** pfarelochokwe834@gmail.com
 - **Location:** Cape Town / South Africa
 
